@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "SearchableSpinner"
-include(":app")
+//include(":app")
 include(":searchable-spinner")
